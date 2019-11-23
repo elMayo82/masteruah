@@ -51,5 +51,7 @@ Los datos ~~financieros~~ logísticos expresan acciones y cifras relacionadas co
 # Tabla compañeros a los que sigo
 |NOMBRE|GITHUB|
 |------|------|
-|Jillie Chang|[enlace a github 1](https://github.com/JillieChang/masteruah)|
+| Jillie Chang | [enlace a github 1](https://github.com/JillieChang/masteruah) || Zeng Yong | [enlace a github 2](https://github.com/zengyong96/masteruah) |
+| Álvaro de la Fuente | [enlace a github](https://github.com/alvarodelafuente/masteruah) |
+
 
