@@ -47,3 +47,9 @@ Los datos ~~financieros~~ logísticos expresan acciones y cifras relacionadas co
 
 # Foto Python
 ![Alt text](https://www.python.org/static/opengraph-icon-200x200.png "Python")
+
+# Tabla compañeros a los que sigo
+|NOMBRE|GITHUB|
+|------|------|
+|Jillie Chang|[enlace a github 1](https://github.com/JillieChang/masteruah)|
+
